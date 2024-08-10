@@ -46,7 +46,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn jupyter
 ## Getting Started
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/insurance-cost-prediction.git
+git clone https://github.com/SachinSingh1402/Medical_Insurance_Cost_Prediction.git
 cd insurance-cost-prediction
 ```
 2. Install the dependencies:
